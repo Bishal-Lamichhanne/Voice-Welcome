@@ -8,14 +8,14 @@ clear
 echo -e "Created By \e[5mBishal"
 echo
 echo
-echo< MR.X >
-echo   ------
+echo     < MR.X >
+echo       ------
 echo
 echo    \
-echo     \
-echo .::!!!!!!!:.
-echo  .!!!!!:. .:!!!!!!!!!!!!
-echo  ~~~~!!!!!!. .:!!!!!!!!!UWWW$$$
+echo    \
+echo  .::!!!!!!!:.
+echo   .!!!!!:. .:!!!!!!!!!!!!
+echo   ~~~~!!!!!!. .:!!!!!!!!!UWWW$$$
 echo      :$$NWX!!: .:!!!!!!XUWW$$$$$$$$$P
 echo      $$$$$##WX!: .<!!!!UW$$$$" $$$$$$$$#
 echo      $$$$$ $$$UX :!!UW$$$$$$$$$ 4$$$$$*
